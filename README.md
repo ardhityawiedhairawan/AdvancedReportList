@@ -29,7 +29,7 @@
 
 ## 📷 Screenshots
 
-*Coming soon – UI previews of the plugin in action.*
+![Example Screenshot](advancedlistformantis.png)
 
 ---
 
