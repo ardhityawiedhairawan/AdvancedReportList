@@ -40,3 +40,16 @@
 ```bash
 cd /path/to/mantis/plugins
 git clone https://github.com/your-username/AdvancedReportList.git
+
+
+## structure plugins
+
+AdvancedReportList/
+├── AdvancedReportList.php        # Main plugin class
+├── pages/
+│   └── report_page.php           # Report UI and logic
+├── lang/
+│   └── strings_english.txt       # (Optional) Language strings
+├── files/
+│   └── Custom JS or CSS (optional for DataTables)
+
